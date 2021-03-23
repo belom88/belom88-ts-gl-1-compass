@@ -1,0 +1,21 @@
+.board {
+  display: flex;
+
+  .panel {
+    margin: 0 1em;
+    padding: 1em;
+    border: 1px solid green;
+    width: 100%;
+  }
+
+  .input.group {
+    display: flex;
+    flex-direction: column-reverse;
+    &.slider {
+      .slider {
+        width: 100%;
+      }
+    }
+  }
+  
+}
