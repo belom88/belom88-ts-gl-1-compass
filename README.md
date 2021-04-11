@@ -13,7 +13,7 @@ The application renders an oriented graphical primitives:
   * Yellow - (+Y);
   * Blue - (+Z).
 
-![Compas 3D Video](images/screenshot.png "Compas 3D Video")
+![Compas 3D Screenshot](images/screenshot.png "Compas 3D Screenshot")
 
 ## Dependencies
 
