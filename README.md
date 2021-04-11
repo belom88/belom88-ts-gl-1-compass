@@ -38,7 +38,7 @@ The application is fully implemented on Typescript.
 - [src/scenes/compass/compass-load-model.ts](src/scenes/compass/compass-load-model.ts) - loading the model from GLB file;
 - [scr/core/gl-context.ts](src/core/gl-context.ts) - getting GL context having html selector of `canvas` element;
 - [scr/core/gl-matrix.ts](src/core/gl-matrix.ts) - 4*4 matrix mathematics;
-- [scr/core/gl-matrix.ts](src/core/gl-vector.ts) - 3 dimentional vector mathematics;
+- [scr/core/gl-vector.ts](src/core/gl-vector.ts) - 3 dimentional vector mathematics;
 - [scr/core/gl-shader.ts](src/core/gl-shader.ts) - initialization of shader programs;
 - [scr/tools/angles.ts](src/tools/angles.ts) - transformation angles from degrees to radians.
 
